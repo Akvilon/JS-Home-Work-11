@@ -1,0 +1,26 @@
+$(function (){
+    $('.pirates').piratesCarousel(); 
+
+}); 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
